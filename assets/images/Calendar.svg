@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="24px" viewBox="0 0 22 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Calendar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="No_Answer2" transform="translate(-888.000000, -586.000000)">
+            <g id="Group-27" transform="translate(512.000000, 304.000000)">
+                <g id="Group-26" transform="translate(0.000000, 249.000000)">
+                    <g id="Calendar" transform="translate(376.000000, 33.000000)">
+                        <path d="M6.5,0 L6.5,0 C7.32842712,-1.52179594e-16 8,0.671572875 8,1.5 L8,6 L5,6 L5,1.5 C5,0.671572875 5.67157288,1.52179594e-16 6.5,0 Z" id="Rectangle" fill="#6D727D"></path>
+                        <path d="M15.5,0 L15.5,0 C16.3284271,-1.52179594e-16 17,0.671572875 17,1.5 L17,6 L14,6 L14,1.5 C14,0.671572875 14.6715729,1.52179594e-16 15.5,0 Z" id="Rectangle-Copy-7" fill="#6D727D"></path>
+                        <path d="M4,5 L18,5 C20.209139,5 22,6.790861 22,9 L22,20 C22,22.209139 20.209139,24 18,24 L4,24 C1.790861,24 1.93005259e-13,22.209139 1.92734717e-13,20 L1.91846539e-13,9 C1.91575997e-13,6.790861 1.790861,5 4,5 Z" id="Rectangle" fill="#E4DFDF"></path>
+                        <circle id="Oval-Copy-9" stroke="#6D727D" stroke-width="1.79999985" fill="#6D727D" cx="6.5" cy="17.4379457" r="1.60000008"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+export const ADD_JOB_SUCCESS = "Successfully added job";
+export const ADD_JOB_FAILED = "Failed to add job";
+export const UPDATE_JOB_SUCCESS = "Successfully updated job";
+export const UPDATE_JOB_FAILED = "Failed to update job";
+export const ADD_COMPANY_SUCCESS = "Successfully added company";
+export const ADD_COMPANY_FAILED = "Failed to add company";
+export const UPDATE_COMPANY_SUCCESS = "Successfully updated company";
+export const UPDATE_COMPANY_FAILED = "Failed to update company";
+export const ADD_INDUSTRY_SUCCESS = "Successfully added industry";
+export const ADD_INDUSTRY_FAILED = "Failed to add industry";

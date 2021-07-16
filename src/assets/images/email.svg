@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="19px" viewBox="0 0 24 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>email</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="No_Answer2" transform="translate(-844.000000, -813.000000)">
+            <g id="Group-33" transform="translate(512.000000, 743.000000)">
+                <g id="Group-32" transform="translate(0.000000, 44.000000)">
+                    <g id="Group-28" transform="translate(279.000000, 0.000000)">
+                        <g id="email" transform="translate(53.000000, 26.000000)">
+                            <path d="M0,9.09494702e-13 L24,9.09494702e-13 L24,16 C24,17.6568542 22.6568542,19 21,19 L3,19 C1.34314575,19 2.02906125e-16,17.6568542 0,16 L0,9.09494702e-13 Z" id="Rectangle" fill="#E4DFDF"></path>
+                            <polygon id="Path-5" fill="#6D727D" points="1.25410793e-12 1.16075622e-12 11.880771 10.1944946 24 1.16075622e-12"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

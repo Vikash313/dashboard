@@ -1,0 +1,40 @@
+.videoPlayerEmbed > video {
+    height: initial !important;
+  }
+
+  .videoPlayerEmbed {
+    height: initial !important;
+  }
+  
+  .minBotWrapperEmbed {
+    top: 15vh !important;
+  }
+  
+  .minBotPopEmbed{
+    height: 95px !important;
+  }
+  
+  .minBotPopEmbed:after{
+    top: -1.3vh !important;
+    right: -32vh !important;
+  }
+  
+  .ExpertronVideoBotWrapperEmbed{
+    float: right;
+    width: initial;
+  }
+  
+  .videoBotPageWrapperEmbed{
+    display: block !important;
+  }
+  
+  .AutoPlayModuleEmbed {
+    width : 98% !important;
+    padding: 10px 7px 10px 7px !important;
+    left: 0% !important;
+  }
+  
+  .autoPlayEmbed{
+    width: 54% !important;
+    font-size: 12px !important;
+  }
